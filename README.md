@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **ASP.NET, NestJs and Python**
 
-- 📫 How to reach me **nahomamare52@gmail.com**
-
 - ⚡ Fun fact **I am a Potterhead**
 
 <h3 align="left">Connect with me:</h3>
