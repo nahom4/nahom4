@@ -24,7 +24,3 @@ APIs across **Go, NestJS, .NET, and Python**.
 
 `Go` · `NestJS` · `.NET / ASP.NET` · `Python / FastAPI` · `TypeScript`
 `PostgreSQL` · `MySQL` · `Redis` · `Docker` · `Git`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahom4&layout=compact&langs_count=8&hide=html,css" alt="top languages" />
-</p>
